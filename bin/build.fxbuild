@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<anttasks:AntTask xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:anttasks="http://org.eclipse.fx.ide.jdt/1.0" buildDirectory="E:\Secure_Image" cssToBin="true">
+  <deploy packagingFormat="exe">
+    <application name="SecureImage" mainclass="application.Main" version="1.1" toolkit="fx"/>
+    <info title="Secure Image" vendor="Nahid"/>
+  </deploy>
+  <signjar/>
+</anttasks:AntTask>
